@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What does CPU stand for?",
+      option1: "Central Processing Unit",
+      option2: "Central Programming Unit",
+      option3: "Computer Personal Unit",
+      option4: "Central Print Unit",
+      ans: 1,
+    },
+    {
+      question: "Which part of the computer is considered the brain??",
+      option1: "RAM",
+      option2: "HArd Drive",
+      option3: "Moniter",
+      option4: "CPU",
+      ans: 4,
+    },
+    {
+      question: "WHat is full form of RAM?",
+      option1: "Random Access Memory",
+      option2: "Read Access Memory",
+      option3: "Ready Access Memory",
+      option4: "Random Allocation Memory",
+      ans: 2,
+    },
+    {
+      question: "Which device is used to input data into a computer?",
+      option1: "Moniter",
+      option2: "Printer",
+      option3: "Keyboard",
+      option4: "Speaker",
+      ans: 3,
+    },
+    {
+      question: "Which of the following is an example of an output device??",
+      option1: "Keyboard",
+      option2: "Mouse",
+      option3: "Moniter",
+      option4: "Scanner",
+      ans: 3,
+    },
+  ];
